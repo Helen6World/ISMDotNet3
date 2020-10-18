@@ -1,0 +1,11 @@
+E:\PROGRAMMING\18.10\ISMDotNet3\ISMDotNet3\bin\Debug\netcoreapp3.1\ISMDotNet3.exe
+E:\PROGRAMMING\18.10\ISMDotNet3\ISMDotNet3\bin\Debug\netcoreapp3.1\ISMDotNet3.deps.json
+E:\PROGRAMMING\18.10\ISMDotNet3\ISMDotNet3\bin\Debug\netcoreapp3.1\ISMDotNet3.runtimeconfig.json
+E:\PROGRAMMING\18.10\ISMDotNet3\ISMDotNet3\bin\Debug\netcoreapp3.1\ISMDotNet3.runtimeconfig.dev.json
+E:\PROGRAMMING\18.10\ISMDotNet3\ISMDotNet3\bin\Debug\netcoreapp3.1\ISMDotNet3.dll
+E:\PROGRAMMING\18.10\ISMDotNet3\ISMDotNet3\bin\Debug\netcoreapp3.1\ISMDotNet3.pdb
+E:\PROGRAMMING\18.10\ISMDotNet3\ISMDotNet3\obj\Debug\netcoreapp3.1\ISMDotNet3.csprojAssemblyReference.cache
+E:\PROGRAMMING\18.10\ISMDotNet3\ISMDotNet3\obj\Debug\netcoreapp3.1\ISMDotNet3.AssemblyInfoInputs.cache
+E:\PROGRAMMING\18.10\ISMDotNet3\ISMDotNet3\obj\Debug\netcoreapp3.1\ISMDotNet3.AssemblyInfo.cs
+E:\PROGRAMMING\18.10\ISMDotNet3\ISMDotNet3\obj\Debug\netcoreapp3.1\ISMDotNet3.dll
+E:\PROGRAMMING\18.10\ISMDotNet3\ISMDotNet3\obj\Debug\netcoreapp3.1\ISMDotNet3.pdb
